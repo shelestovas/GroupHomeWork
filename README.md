@@ -94,4 +94,4 @@ $ npm install jquery bootstrap font-awesome magnific-popup scrollreveal --save
 | ------ | ------ |
 | Скопировать шрифты fontawesome и glyphicons из bootstrap в папку src/fonts, потом они через gulp соберутся | - |
 
-#### Вроде все! =)
+### Вроде все! РАБОТАЕМ!!! =)
